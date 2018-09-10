@@ -1,2 +1,2 @@
-# Text-sentiment-classification-
+# Text-sentiment-classification
 naive Bayesian; semantic lexicon
